@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1kPG+kKxYuIKB8qVckvARf47x+Z0WDJ3ez8jDKY6XsPrPc/27l0+tJ1QazPhop2rohtTjyx6Zbswc9NgO+Jjg==",
+  "success": true,
+  "projectFilePath": "/Applications/MAMP/htdocs/mom3/mom3.csproj",
+  "expectedPackageFiles": [
+    "/Users/ADamHolmberg/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
